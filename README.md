@@ -177,6 +177,8 @@ npm run dev
 ---
 
 > *This project was built as part of a hands-on learning journey into full-stack web development. All features are functional and the codebase is clean, well-structured, and ready for further development.*
-<img width="1920" height="1080" alt="Screenshot (728)" src="https://github.com/user-attachments/assets/81a01b8b-3c0f-4e75-9dba-32b78e4dda3f" />
-<img width="1920" height="1080" alt="Screenshot (730)" src="https://github.com/user-attachments/assets/70cf6a51-9bc6-4bee-abb4-6bad4a073926" />
-<img width="1920" height="1080" alt="Screenshot (729)" src="https://github.com/user-attachments/assets/f116e249-43c4-420d-9b4a-d1d2b4d8f444" />
+<img width="1920" height="838" alt="Screenshot (728)" src="https://github.com/user-attachments/assets/666a360d-c470-41c9-ac46-e14d2e0bc6ad" />
+<img width="1920" height="1031" alt="Screenshot (731)" src="https://github.com/user-attachments/assets/a25544ec-75a4-4770-aa34-086b4b00ad38" />
+<img width="1920" height="798" alt="Screenshot (730)" src="https://github.com/user-attachments/assets/8f5de1e2-6a87-4096-93e6-80a94714c94a" />
+<img width="1920" height="841" alt="Screenshot (729)" src="https://github.com/user-attachments/assets/305654db-6414-4996-9348-86ff3d891918" />
+
